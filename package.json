@@ -7,7 +7,9 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@kitware/vtk.js": "^24.16.0",
     "core-js": "^3.6.5",
+    "vtk.js": "^24.16.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
